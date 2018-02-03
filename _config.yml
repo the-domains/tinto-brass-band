@@ -1,0 +1,27 @@
+name: Tinto Brass Band
+layout_spectrum: 0.21565491360849354
+typography_spectrum: 0.9095762911481196
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+  brandStrength: 0.869924595020935
+  lightness: 0.9652138969114153
+  saturation: 0.7914603684756844
+  rhythmicContrast: 0.4281990655554637
+title: Независимый уличный оркестр
+description: Одни из основателей движения брасс-бэндов в России
+author:
+  name: eVr
+  url: 'http://youreka.ru'
+  email: talalife@gmail.com
+content_rating:
+  adult: false
+content: []
+github: true
