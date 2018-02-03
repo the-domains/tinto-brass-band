@@ -19,6 +19,9 @@ purpose:
   - type: contact
     label: Позвонить нам
     url: 'tel:+74994099392'
+  - type: external
+    label: Группа ВКонтакте
+    url: 'https://vk.com/tintobrassband'
 title: Независимый уличный оркестр
 description: Одни из основателей движения брасс-бэндов в России
 author:
