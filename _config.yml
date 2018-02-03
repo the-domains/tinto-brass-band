@@ -15,7 +15,10 @@ color:
   lightness: 0.9652138969114153
   saturation: 0.7914603684756844
   rhythmicContrast: 0.4281990655554637
-purpose: []
+purpose:
+  - type: contact
+    label: Позвонить нам
+    url: 'tel:+74994099392'
 title: Независимый уличный оркестр
 description: Одни из основателей движения брасс-бэндов в России
 author:
