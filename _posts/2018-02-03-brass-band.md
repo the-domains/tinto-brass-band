@@ -1,7 +1,8 @@
 ---
-title: 'brass '
-datePublished: '2018-02-03T20:50:12.924Z'
-dateModified: '2018-02-03T20:50:11.325Z'
+title: |
+  brass band
+datePublished: '2018-02-03T20:50:33.865Z'
+dateModified: '2018-02-03T20:50:32.140Z'
 publisher: {}
 author: []
 inFeed: true
@@ -24,7 +25,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# brass 
+# brass band
 
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b25727b4-94ad-4774-8c66-ffee986754e7.jpg" /><h1>Tinto Brass Band</h1><p>Медь</p></article>
 
