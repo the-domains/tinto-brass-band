@@ -1,7 +1,7 @@
 ---
-title: 'О '
-datePublished: '2018-02-03T21:04:26.737Z'
-dateModified: '2018-02-03T21:04:20.504Z'
+title: О нас
+datePublished: '2018-02-03T21:05:20.031Z'
+dateModified: '2018-02-03T21:05:17.181Z'
 publisher: {}
 author: []
 inFeed: true
@@ -24,7 +24,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# О 
+# О нас
 
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b25727b4-94ad-4774-8c66-ffee986754e7.jpg" /><h1>Tinto Brass Band</h1><p>Медь</p></article>
 
