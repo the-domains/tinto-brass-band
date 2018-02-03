@@ -15,10 +15,7 @@ color:
   lightness: 0.9652138969114153
   saturation: 0.7914603684756844
   rhythmicContrast: 0.4281990655554637
-purpose:
-  - type: contact
-    label: 'Дмитрий Сапарин, директор'
-    url: 'tel:+74994099392'
+purpose: []
 title: Независимый уличный оркестр
 description: Одни из основателей движения брасс-бэндов в России
 author:
