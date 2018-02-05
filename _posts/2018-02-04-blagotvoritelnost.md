@@ -1,6 +1,6 @@
 ---
 title: Благотворительность
-dateModified: '2018-02-05T19:44:42.746Z'
+dateModified: '2018-02-05T19:49:52.733Z'
 publisher: {}
 author: []
 inFeed: true
@@ -10,7 +10,7 @@ description: >-
   очень любим бескорыстно помогать достойным этого фондам и благотворным
   организациям, когда предоставляется такая возможность. Вот несколько примеров.
 via: {}
-datePublished: '2018-02-05T19:44:43.959Z'
+datePublished: '2018-02-05T19:49:53.381Z'
 sourcePath: _posts/2018-02-04-blagotvoritelnost.md
 starred: false
 datePublishedOriginal: '2018-02-04T21:49:28.140Z'
