@@ -1,6 +1,13 @@
+name: Tinto Brass Band
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2096a707-8f1e-4943-ad12-bb693b33d164.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5b7f651-8a93-4f7d-b9d2-ac6b5c36050c.jpg
+layout_spectrum: 0.21565491360849354
 typography_spectrum: 0.9095762911481196
-content_rating:
-  adult: false
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#7D8A2E'
@@ -12,18 +19,21 @@ color:
   lightness: 0.9652138969114153
   saturation: 0.7914603684756844
   rhythmicContrast: 0.4281990655554637
-github: true
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.21565491360849354
+purpose:
+  - type: contact
+    label: Позвонить нам
+    url: 'tel:+74994099392'
+  - type: external
+    label: Группа ВКонтакте
+    url: 'https://vk.com/tintobrassband'
+title: Независимый уличный оркестр
+description: Одни из основателей движения брасс-бэндов в России
 author:
   name: eVr
   url: 'http://youreka.ru'
   email: talalife@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5b7f651-8a93-4f7d-b9d2-ac6b5c36050c.jpg
-name: Tinto Brass Band
+content_rating:
+  adult: false
 navigation:
   - name: О брасс-бэнде
     id: 68c7f6c1-c69a-4c71-aa0f-c8dc1a741ea2
@@ -37,15 +47,8 @@ navigation:
   - name: Портфолио
     id: c9c7ae4d-77bc-4ee9-b8d2-31a31b8a459c
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2096a707-8f1e-4943-ad12-bb693b33d164.jpg
-title: Независимый уличный оркестр
+  - name: 'Прямая речь: Дмитрий Сапарин'
+    id: 26f8906a-d557-4bab-b253-f635af4a40ae
+    type: content
 content: []
-description: Одни из основателей движения брасс-бэндов в России
-purpose:
-  - type: contact
-    label: Позвонить нам
-    url: 'tel:+74994099392'
-  - type: external
-    label: Группа ВКонтакте
-    url: 'https://vk.com/tintobrassband'
+github: true
