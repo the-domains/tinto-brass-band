@@ -41,14 +41,14 @@ navigation:
   - name: Благотворительность
     id: bf510236-e7c6-4cec-bf46-df5e1ab9b567
     type: content
-  - name: Инстаграм
-    url: 'https://www.instagram.com/4appa/'
-    type: external
   - name: Портфолио
     id: c9c7ae4d-77bc-4ee9-b8d2-31a31b8a459c
     type: content
   - name: 'Прямая речь: Дмитрий Сапарин'
     id: 26f8906a-d557-4bab-b253-f635af4a40ae
     type: content
+  - name: Инстаграм
+    url: 'https://www.instagram.com/4appa/'
+    type: external
 content: []
 github: true
