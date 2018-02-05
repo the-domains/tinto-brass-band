@@ -1,7 +1,7 @@
 ---
 title: О нас
-datePublished: '2018-02-05T14:46:23.235Z'
-dateModified: '2018-02-05T14:38:39.586Z'
+datePublished: '2018-02-05T19:49:53.117Z'
+dateModified: '2018-02-05T19:49:52.733Z'
 publisher: {}
 author: []
 inFeed: true
@@ -16,9 +16,9 @@ description: >-
   Российской Академии музыки им. Гнесиных, Института Культуры. Бессменным
   руководителем брасс-бэнда с момента основания является Дмитрий Сапарин.
 via: {}
+sourcePath: _posts/2018-02-03-brass-band.md
 starred: false
 datePublishedOriginal: '2018-02-03T20:43:09.903Z'
-sourcePath: _posts/2018-02-03-brass-band.md
 url: brass/index.html
 _type: Article
 _context: 'http://schema.org'
