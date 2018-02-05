@@ -4,8 +4,8 @@ description: >-
   За время своего многолетнего существования Tinto Brass Band выступал на самых
   различных площадках и по всевозможным поводам. Нам под силу воплощение ваших
   самых удивительных и дерзких идей!Вот лишь некоторые из наших клиентов:
-dateModified: '2018-02-05T19:54:08.135Z'
-datePublished: '2018-02-05T19:54:10.932Z'
+dateModified: '2018-02-05T20:02:30.027Z'
+datePublished: '2018-02-05T20:02:32.427Z'
 title: 'Компании, с которыми мы работаем'
 author: []
 publisher: {}
@@ -22,9 +22,6 @@ _type: Article
 
 За время своего многолетнего существования **Tinto Brass Band** выступал на самых различных площадках и по всевозможным поводам. Нам под силу воплощение ваших самых удивительных и дерзких идей!  
 Вот лишь некоторые из наших клиентов:
-
----
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33f9d5ab-84c5-4524-83c4-63c590d88b72.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5473b4f4-a031-4416-ab5c-e52e8fdcace7.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/60e0f6182d93b5bcb8bbd059d499fdc6acd7ce9e.jpg)
