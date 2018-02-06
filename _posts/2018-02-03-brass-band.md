@@ -1,7 +1,7 @@
 ---
 title: О нас
-datePublished: '2018-02-06T12:21:34.120Z'
-dateModified: '2018-02-06T12:21:32.497Z'
+datePublished: '2018-02-06T12:24:36.820Z'
+dateModified: '2018-02-06T12:24:35.598Z'
 publisher: {}
 author: []
 inFeed: true
@@ -25,24 +25,23 @@ _context: 'http://schema.org'
 
 ---
 # О нас
-
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b25727b4-94ad-4774-8c66-ffee986754e7.jpg" /><h1>Tinto Brass Band</h1><p>Медь</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b25727b4-94ad-4774-8c66-ffee986754e7.jpg)
 
 Tinto Brass Band - независимый уличный оркестр, вот уже более 10 лет пропагандирующий в России лучшие традиции брасс-бэндов мира, от Нового Орлеана начала XX века до самых современных течений. Отличительной особенностью оркестра являются суперпрофессионализм участников и мощное, гармоничное звучание. Это не удивительно, ведь в составе - выпускники ведущих музыкальных ВУЗов столицы: Московской Государственной Консерватории им. П.И. Чайковского, Российской Академии музыки им. Гнесиных, Института Культуры. Бессменным руководителем брасс-бэнда с момента основания является Дмитрий Сапарин.
 
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eedb26f6-cd9f-4915-b787-47adf3dfd38c.jpg" /><h1>Дмитрий Сапарин</h1><p>Tinto Brass Band, директор, туба</p></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eedb26f6-cd9f-4915-b787-47adf3dfd38c.jpg" /><h1>Дмитрий Сапарин</h1><p>Туба</p></article>
 
 ---
 
 Состав оркестра - это акустические духовые инструменты: саксофон, труба, два тромбона, туба и ударная установка. Брасс-бэнд использует в работе множество стилей и направлений, ведь такой состав инструментов позволяет легко охватить их.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d88fcc8f-8f61-4240-9e32-1324330593ca.jpg)
+![на Театральном Демарше](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d88fcc8f-8f61-4240-9e32-1324330593ca.jpg)
 
 В репертуар оркестра вошли как старинные классические произведения, так и Jazz, Blues, Dixieland, советская и зарубежная эстрада, детские песни, музыка из кинофильмов. Основной репертуар Tinto Brass Band - популярные хиты мировой эстрады в танцевальных аранжировках, в стиле Disco, House, Pop, Funk, Hip-Hop, Ska, Dubstep.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48820a17-0c8d-4191-a5da-2c27790f163f.jpg)
-![Частная вечеринка](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eff4beae-ad3b-4ef9-b9b0-6fd0a6d5700c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eff4beae-ad3b-4ef9-b9b0-6fd0a6d5700c.jpg)
 
 В настоящее время Tinto Brass Band продолжает выступать на различных площадках Москвы и области. Брасс-бэнд сотрудничает с уличными театрами Огненные Люди, Высокие Братья, творческой мастерской Чёрный квадрат (Black Square) . Tinto Brass Band участвовали в записи нового альбома певицы Вики Цыгановой, при участии сербского композитора Нинослава Адемовича - аранжировщик, работавший с группой Gipsy Kings и Гораном Бреговичем.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc6699f-7fdd-4c93-a25e-d412488cbc20.jpg)
+![Тромбон](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc6699f-7fdd-4c93-a25e-d412488cbc20.jpg)
 
 Tinto Brass Band является резидентом ежегодного фестиваля Театральный Демарш, руководителем которого является российская актриса театра и кино, певица, директор театра на Таганке Ирина Апексимова.
-![И Tinto Brass Band](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5de89c5b-eca5-41e5-83d3-3e80f111eb84.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5de89c5b-eca5-41e5-83d3-3e80f111eb84.jpg)
