@@ -28,6 +28,9 @@ navigation:
   - name: О брасс-бэнде
     id: 68c7f6c1-c69a-4c71-aa0f-c8dc1a741ea2
     type: content
+  - name: Костюмы
+    id: 418a2e62-44f1-445d-8c09-cf02dc2a3bfe
+    type: content
   - name: Наши благодарности
     id: bf510236-e7c6-4cec-bf46-df5e1ab9b567
     type: content
@@ -40,9 +43,6 @@ navigation:
   - name: Инстаграм
     url: 'https://www.instagram.com/4appa/'
     type: external
-  - name: Костюмы
-    id: 418a2e62-44f1-445d-8c09-cf02dc2a3bfe
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2096a707-8f1e-4943-ad12-bb693b33d164.jpg
 title: Независимый уличный оркестр
