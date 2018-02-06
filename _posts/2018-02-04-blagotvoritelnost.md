@@ -1,6 +1,6 @@
 ---
 title: Наши благодарности
-dateModified: '2018-02-06T11:51:29.705Z'
+dateModified: '2018-02-06T11:54:05.433Z'
 publisher: {}
 author: []
 inFeed: true
@@ -11,7 +11,7 @@ description: >-
   организациям, когда представляется такая возможность. Вот несколько примеров
   того, что мы уже сделали в этом направлении.
 via: {}
-datePublished: '2018-02-06T11:51:30.831Z'
+datePublished: '2018-02-06T11:54:06.194Z'
 sourcePath: _posts/2018-02-04-blagotvoritelnost.md
 starred: false
 datePublishedOriginal: '2018-02-04T21:49:28.140Z'
