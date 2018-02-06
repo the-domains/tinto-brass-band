@@ -31,11 +31,11 @@ navigation:
   - name: Костюмы
     id: 418a2e62-44f1-445d-8c09-cf02dc2a3bfe
     type: content
-  - name: Наши благодарности
-    id: bf510236-e7c6-4cec-bf46-df5e1ab9b567
-    type: content
   - name: Любимые клиенты
     id: c9c7ae4d-77bc-4ee9-b8d2-31a31b8a459c
+    type: content
+  - name: Наши благодарности
+    id: bf510236-e7c6-4cec-bf46-df5e1ab9b567
     type: content
   - name: История создания
     id: 26f8906a-d557-4bab-b253-f635af4a40ae
