@@ -1,7 +1,7 @@
 ---
 title: О нас
-datePublished: '2018-02-05T19:59:45.571Z'
-dateModified: '2018-02-05T19:59:44.720Z'
+datePublished: '2018-02-06T11:54:06.195Z'
+dateModified: '2018-02-06T11:54:05.433Z'
 publisher: {}
 author: []
 inFeed: true
