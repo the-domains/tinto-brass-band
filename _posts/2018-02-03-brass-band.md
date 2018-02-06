@@ -1,7 +1,7 @@
 ---
 title: О нас
-datePublished: '2018-02-06T11:54:06.195Z'
-dateModified: '2018-02-06T11:54:05.433Z'
+datePublished: '2018-02-06T12:21:34.120Z'
+dateModified: '2018-02-06T12:21:32.497Z'
 publisher: {}
 author: []
 inFeed: true
@@ -35,14 +35,14 @@ Tinto Brass Band - независимый уличный оркестр, вот 
 ---
 
 Состав оркестра - это акустические духовые инструменты: саксофон, труба, два тромбона, туба и ударная установка. Брасс-бэнд использует в работе множество стилей и направлений, ведь такой состав инструментов позволяет легко охватить их.
-![Театральный Демарш](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d88fcc8f-8f61-4240-9e32-1324330593ca.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d88fcc8f-8f61-4240-9e32-1324330593ca.jpg)
 
 В репертуар оркестра вошли как старинные классические произведения, так и Jazz, Blues, Dixieland, советская и зарубежная эстрада, детские песни, музыка из кинофильмов. Основной репертуар Tinto Brass Band - популярные хиты мировой эстрады в танцевальных аранжировках, в стиле Disco, House, Pop, Funk, Hip-Hop, Ska, Dubstep.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48820a17-0c8d-4191-a5da-2c27790f163f.jpg)
 ![Частная вечеринка](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eff4beae-ad3b-4ef9-b9b0-6fd0a6d5700c.jpg)
 
 В настоящее время Tinto Brass Band продолжает выступать на различных площадках Москвы и области. Брасс-бэнд сотрудничает с уличными театрами Огненные Люди, Высокие Братья, творческой мастерской Чёрный квадрат (Black Square) . Tinto Brass Band участвовали в записи нового альбома певицы Вики Цыгановой, при участии сербского композитора Нинослава Адемовича - аранжировщик, работавший с группой Gipsy Kings и Гораном Бреговичем.
-![Тромбон](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc6699f-7fdd-4c93-a25e-d412488cbc20.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc6699f-7fdd-4c93-a25e-d412488cbc20.jpg)
 
 Tinto Brass Band является резидентом ежегодного фестиваля Театральный Демарш, руководителем которого является российская актриса театра и кино, певица, директор театра на Таганке Ирина Апексимова.
 ![И Tinto Brass Band](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5de89c5b-eca5-41e5-83d3-3e80f111eb84.jpg)
