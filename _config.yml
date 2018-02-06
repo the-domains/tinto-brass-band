@@ -50,8 +50,8 @@ content: []
 description: Одни из основателей движения брасс-бэндов в России
 purpose:
   - type: contact
-    label: Позвонить нам
-    url: 'tel:+74994099392'
+    label: Позвонить
+    url: 'tel:+79646499392'
   - type: external
     label: Группа ВКонтакте
     url: 'https://vk.com/tintobrassband'
