@@ -1,6 +1,13 @@
+name: Tinto Brass Band
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2096a707-8f1e-4943-ad12-bb693b33d164.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5b7f651-8a93-4f7d-b9d2-ac6b5c36050c.jpg
+layout_spectrum: 0.21565491360849354
 typography_spectrum: 0.9095762911481196
-content_rating:
-  adult: false
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#7D8A2E'
@@ -12,40 +19,40 @@ color:
   lightness: 0.9652138969114153
   saturation: 0.7914603684756844
   rhythmicContrast: 0.4281990655554637
-github: true
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.21565491360849354
+purpose:
+  - type: contact
+    label: Позвонить
+    url: 'tel:+79646499392'
+  - type: external
+    label: Группа ВКонтакте
+    url: 'https://vk.com/tintobrassband'
+title: Независимый уличный оркестр
+description: Одни из основателей движения брасс-бэндов в России
 author:
   name: eVr
   url: 'http://youreka.ru'
   email: talalife@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5b7f651-8a93-4f7d-b9d2-ac6b5c36050c.jpg
-name: Tinto Brass Band
+content_rating:
+  adult: false
 navigation:
   - name: О брасс-бэнде
     id: 68c7f6c1-c69a-4c71-aa0f-c8dc1a741ea2
     type: content
-  - name: Костюмы
-    id: 418a2e62-44f1-445d-8c09-cf02dc2a3bfe
+  - name: Костюмы и образы
+    id: 57191697-dcd5-4365-aca5-2cd392fd43de
     type: content
   - name: Любимые клиенты
     id: c9c7ae4d-77bc-4ee9-b8d2-31a31b8a459c
     type: content
-  - name: Наши благодарности
-    id: bf510236-e7c6-4cec-bf46-df5e1ab9b567
-    type: content
   - name: История создания
     id: 26f8906a-d557-4bab-b253-f635af4a40ae
+    type: content
+  - name: Наши благодарности
+    id: bf510236-e7c6-4cec-bf46-df5e1ab9b567
     type: content
   - name: Инстаграм
     url: 'https://www.instagram.com/4appa/'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2096a707-8f1e-4943-ad12-bb693b33d164.jpg
-title: Независимый уличный оркестр
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -56,16 +63,9 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: Дмитрий Сапарин
-          url: 'https://www.youtube.com/user/saparind'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-        domain: www.youtube.com
+      '@type': VideoObject
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'http://www.youtube.com/watch?v=MoKy1BJacWw'
       keywords:
         - brass band
         - weddind
@@ -73,58 +73,19 @@ content:
         - шоу
         - кавер
         - cover
-      description: Uploaded by Дмитрий Сапарин on 2017-04-17.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      '@type': VideoObject
-      app_links:
-        - url: 'vnd.youtube://www.youtube.com/watch?v=MoKy1BJacWw&feature=applinks'
-          type: ios
-          namespace: ai
-          app_store_id: '544007664'
-          app_name: YouTube
-        - url: 'vnd.youtube://www.youtube.com/watch?v=MoKy1BJacWw&feature=applinks'
-          type: android
-          namespace: ai
-          app_name: YouTube
-          package: com.google.android.youtube
-        - url: 'https://www.youtube.com/watch?v=MoKy1BJacWw&feature=applinks'
-          type: web
-          namespace: ai
-        - url: 'vnd.youtube://www.youtube.com/watch?v=MoKy1BJacWw&feature=applinks'
-          namespace: twitter
-          type: ipad
-          name: YouTube
-          id: '544007664'
-        - url: 'vnd.youtube://www.youtube.com/watch?v=MoKy1BJacWw&feature=applinks'
-          namespace: twitter
-          type: iphone
-          name: YouTube
-          id: '544007664'
-        - url: 'https://www.youtube.com/watch?v=MoKy1BJacWw'
-          namespace: twitter
-          type: googleplay
-          name: YouTube
-          id: com.google.android.youtube
-        - path: http/www.youtube.com/watch?v=MoKy1BJacWw
-          package: com.google.android.youtube
-          namespace: google
-          type: android
-        - path: vnd.youtube/www.youtube.com/watch?v=MoKy1BJacWw
-          package: '544007664'
-          namespace: google
-          type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'http://www.youtube.com/watch?v=MoKy1BJacWw'
       title: Tinto Brass Band -Свадебные хулиганы ( Rus Teaser)
-      datePublished: null
+      publisher:
+        name: YouTube
+        domain: www.youtube.com
+        url: 'https://www.youtube.com/'
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+      author:
+        - name: Дмитрий Сапарин
+          url: 'https://www.youtube.com/user/saparind'
+          avatar: {}
+      starred: false
+      description: Uploaded by Дмитрий Сапарин on 2017-04-17.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Одни из основателей движения брасс-бэндов в России
-purpose:
-  - type: contact
-    label: Позвонить
-    url: 'tel:+79646499392'
-  - type: external
-    label: Группа ВКонтакте
-    url: 'https://vk.com/tintobrassband'
+github: true
