@@ -1,6 +1,7 @@
 ---
 title: Наши благодарности
-dateModified: '2018-02-09T22:35:09.841Z'
+datePublished: '2018-02-09T22:48:30.617Z'
+dateModified: '2018-02-09T22:47:58.777Z'
 publisher: {}
 author: []
 inFeed: true
@@ -11,10 +12,9 @@ description: >-
   организациям, когда представляется такая возможность. Вот несколько примеров
   того, что мы уже сделали в этом направлении.
 via: {}
-datePublished: '2018-02-09T22:35:12.171Z'
-sourcePath: _posts/2018-02-04-blagotvoritelnost.md
 starred: false
 datePublishedOriginal: '2018-02-04T21:49:28.140Z'
+sourcePath: _posts/2018-02-04-blagotvoritelnost.md
 url: blagotvoritelnost/index.html
 _type: Article
 _context: 'http://schema.org'
@@ -30,7 +30,7 @@ Tinto Brass Band - безусловно, профессиональный ком
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f83998ba-65af-4d03-acf2-6ec4ca5f46a1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f19c769-b839-4c65-960e-a3419048b004.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d19165a-5df3-4792-87e4-6a7d5a48338a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90f8a5c7-2c2c-41fc-881c-c63916db0e39.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4453f44b-1417-4f08-8ab8-858ba7c91d97.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb30f1fb-a1ee-4e13-be82-113d7def3ca4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/994577d9-625a-4447-ba36-b1951518c9cd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a51e4cbb-064a-4cc7-b9e8-b029422d8528.jpg)
