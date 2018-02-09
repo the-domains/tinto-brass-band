@@ -1,7 +1,7 @@
 ---
 title: История создания коллектива
-datePublished: '2018-02-09T22:35:54.593Z'
-dateModified: '2018-02-09T22:35:53.898Z'
+datePublished: '2018-02-09T23:58:49.499Z'
+dateModified: '2018-02-09T23:58:45.873Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,15 +12,16 @@ description: >-
   местными уличными оркестрами. Они-то и зародили во мне первые мысли о создании
   своего уличного духового оркестра в Москве.
 via: {}
-sourcePath: _posts/2018-02-05-dmitrij-saparin-pryamaya-rech.md
 starred: false
 datePublishedOriginal: '2018-02-05T20:47:25.457Z'
+sourcePath: _posts/2018-02-05-dmitrij-saparin-pryamaya-rech.md
 url: dmitrij-saparin-pryamaya-rech/index.html
 _type: Article
 _context: 'http://schema.org'
 
 ---
 # История создания коллектива
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/567deb58-21ea-43f3-af31-dc63be2d262e.jpg)
 
 ## Дмитрий Сапарин: прямая речь
 
