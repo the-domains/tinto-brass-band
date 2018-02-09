@@ -1,7 +1,7 @@
 ---
 title: История создания коллектива
-datePublished: '2018-02-06T12:28:16.606Z'
-dateModified: '2018-02-06T12:28:15.947Z'
+datePublished: '2018-02-09T22:35:12.197Z'
+dateModified: '2018-02-09T22:35:09.841Z'
 publisher: {}
 author: []
 inFeed: true
