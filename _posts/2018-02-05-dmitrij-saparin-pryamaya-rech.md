@@ -1,7 +1,7 @@
 ---
-title: История создания коллектива
-datePublished: '2018-02-09T23:58:49.499Z'
-dateModified: '2018-02-09T23:58:45.873Z'
+title: История создания
+datePublished: '2018-02-11T22:21:52.540Z'
+dateModified: '2018-02-11T22:21:49.186Z'
 publisher: {}
 author: []
 inFeed: true
@@ -20,7 +20,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# История создания коллектива
+# История создания
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/567deb58-21ea-43f3-af31-dc63be2d262e.jpg)
 
 ## Дмитрий Сапарин: прямая речь
