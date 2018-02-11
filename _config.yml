@@ -1,24 +1,24 @@
+layout_spectrum: 0.7318983984107871
+typography_spectrum: 0.026093784246944113
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.8024512235633108
+  lightness: 0.6989288197969556
+  saturation: 0.8294138587857274
+  rhythmicContrast: 0.9770728429104432
 name: Tinto Brass Band
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2096a707-8f1e-4943-ad12-bb693b33d164.jpg
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5b7f651-8a93-4f7d-b9d2-ac6b5c36050c.jpg
-layout_spectrum: 0.21565491360849354
-typography_spectrum: 0.9095762911481196
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
-  brandStrength: 0.869924595020935
-  lightness: 0.9652138969114153
-  saturation: 0.7914603684756844
-  rhythmicContrast: 0.4281990655554637
 purpose:
   - type: contact
     label: Позвонить
