@@ -1,7 +1,7 @@
 ---
 title: О нас
-datePublished: '2018-02-09T22:35:18.713Z'
-dateModified: '2018-02-09T22:35:18.029Z'
+datePublished: '2018-02-11T21:42:17.664Z'
+dateModified: '2018-02-11T21:42:04.418Z'
 publisher: {}
 author: []
 inFeed: true
@@ -16,9 +16,9 @@ description: >-
   Российской Академии музыки им. Гнесиных, Института Культуры. Бессменным
   руководителем брасс-бэнда с момента основания является Дмитрий Сапарин.
 via: {}
-sourcePath: _posts/2018-02-03-brass-band.md
 starred: false
 datePublishedOriginal: '2018-02-03T20:43:09.903Z'
+sourcePath: _posts/2018-02-03-brass-band.md
 url: brass/index.html
 _type: Article
 _context: 'http://schema.org'
@@ -37,7 +37,6 @@ Tinto Brass Band - независимый уличный оркестр, вот 
 
 В репертуар оркестра вошли как старинные классические произведения, так и Jazz, Blues, Dixieland, советская и зарубежная эстрада, детские песни, музыка из кинофильмов. Основной репертуар Tinto Brass Band - популярные хиты мировой эстрады в танцевальных аранжировках, в стиле Disco, House, Pop, Funk, Hip-Hop, Ska, Dubstep.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48820a17-0c8d-4191-a5da-2c27790f163f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eff4beae-ad3b-4ef9-b9b0-6fd0a6d5700c.jpg)
 
 В настоящее время Tinto Brass Band продолжает выступать на различных площадках Москвы и области. Брасс-бэнд сотрудничает с уличными театрами Огненные Люди, Высокие Братья, творческой мастерской Чёрный квадрат (Black Square) . Tinto Brass Band участвовали в записи нового альбома певицы Вики Цыгановой, при участии сербского композитора Нинослава Адемовича - аранжировщик, работавший с группой Gipsy Kings и Гораном Бреговичем.
 ![Тромбон](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc6699f-7fdd-4c93-a25e-d412488cbc20.jpg)
