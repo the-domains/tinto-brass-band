@@ -1,7 +1,7 @@
 ---
 title: Нам доверяют
-datePublished: '2018-02-11T21:22:56.665Z'
-dateModified: '2018-02-11T21:22:54.871Z'
+datePublished: '2018-02-11T23:17:33.192Z'
+dateModified: '2018-02-11T23:17:30.366Z'
 publisher: {}
 author: []
 inFeed: true
@@ -11,9 +11,9 @@ description: >-
   различных площадках и по всевозможным поводам. Нам под силу воплощение ваших
   самых удивительных и дерзких идей!Вот лишь некоторые из наших клиентов:
 via: {}
+sourcePath: _posts/2018-02-05-kompanii-s-kotorymi-my-rabotaem.md
 starred: false
 datePublishedOriginal: '2018-02-05T16:46:26.201Z'
-sourcePath: _posts/2018-02-05-kompanii-s-kotorymi-my-rabotaem.md
 url: kompanii-s-kotorymi-my-rabotaem/index.html
 _type: Article
 
