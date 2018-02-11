@@ -1,24 +1,24 @@
 ---
+title: Нам доверяют
+datePublished: '2018-02-11T21:22:56.665Z'
+dateModified: '2018-02-11T21:22:54.871Z'
+publisher: {}
+author: []
 inFeed: true
+hasPage: true
 description: >-
   За время своего многолетнего существования Tinto Brass Band выступал на самых
   различных площадках и по всевозможным поводам. Нам под силу воплощение ваших
   самых удивительных и дерзких идей!Вот лишь некоторые из наших клиентов:
-dateModified: '2018-02-09T22:35:09.841Z'
-datePublished: '2018-02-09T22:35:12.398Z'
-title: Нас выбирают!
-author: []
-publisher: {}
 via: {}
-hasPage: true
-sourcePath: _posts/2018-02-05-kompanii-s-kotorymi-my-rabotaem.md
 starred: false
 datePublishedOriginal: '2018-02-05T16:46:26.201Z'
+sourcePath: _posts/2018-02-05-kompanii-s-kotorymi-my-rabotaem.md
 url: kompanii-s-kotorymi-my-rabotaem/index.html
 _type: Article
 
 ---
-# Нас выбирают!
+# Нам доверяют
 
 ## _Наши любимые клиенты_
 
