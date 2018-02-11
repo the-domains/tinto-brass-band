@@ -1,7 +1,7 @@
 ---
 title: 'Нам '
-datePublished: '2018-02-11T23:17:33.186Z'
-dateModified: '2018-02-11T23:17:30.366Z'
+datePublished: '2018-02-11T23:17:50.984Z'
+dateModified: '2018-02-11T23:17:48.547Z'
 publisher: {}
 author: []
 inFeed: false
@@ -11,9 +11,9 @@ description: >-
   различных площадках и по всевозможным поводам. Нам под силу воплощение ваших
   самых удивительных и дерзких идей!В число наших клиентов входили:
 via: {}
+sourcePath: _posts/2018-02-05-nas-vybirayut.md
 starred: false
 datePublishedOriginal: '2018-02-05T15:08:16.704Z'
-sourcePath: _posts/2018-02-05-nas-vybirayut.md
 url: nas-vybirayut/index.html
 _type: Article
 _context: 'http://schema.org'
