@@ -1,27 +1,68 @@
 name: 'Tinto Brass Band, независимый уличный оркестр'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab1ce0f0-ce6c-43a3-b269-cb2455f760aa.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7576d878-6150-4320-b5ad-f48804288817.png
+layout_spectrum: 0.7318983984107871
+typography_spectrum: 0.026093784246944106
 analytics: {}
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.8024512235633108
+  lightness: 0.6989288197969556
+  saturation: 0.8294138587857274
+  rhythmicContrast: 0.9770728429104432
 purpose:
   - type: contact
     label: Позвонить
     url: 'tel:+79646499392'
-github: true
+title: Tinto Brass Band
 description: Одни из основателей движения брасс-бэндов в России
 author:
   name: Gridsite made by eVr in Moscow with Love.
   url: 'http://youreka.ru'
   email: talalife@gmail.com
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
+content_rating:
+  adult: false
+navigation:
+  - name: Что мы делаем
+    id: 68c7f6c1-c69a-4c71-aa0f-c8dc1a741ea2
+    type: content
+  - name: Костюмы и образы
+    id: 57191697-dcd5-4365-aca5-2cd392fd43de
+    type: content
+  - name: Видео
+    id: a405decc-de72-4d42-94b1-5a45aa97eb79
+    type: content
+  - name: Нам доверяют
+    id: c9c7ae4d-77bc-4ee9-b8d2-31a31b8a459c
+    type: content
+  - name: История создания
+    id: 26f8906a-d557-4bab-b253-f635af4a40ae
+    type: content
+  - name: Грамоты
+    id: bf510236-e7c6-4cec-bf46-df5e1ab9b567
+    type: content
+  - name: Контакты
+    id: 5c65dc1a-35ae-431d-b689-fa678bf9ab1e
+    type: content
+  - name: Инстаграм
+    url: 'https://www.instagram.com/4appa/'
+    type: external
+  - name: ВК
+    url: 'https://vk.com/tintobrassband'
+    type: external
+  - name: Фейсбук
+    url: 'https://www.facebook.com/www.tintobrassband.ru/'
+    type: external
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -32,11 +73,9 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: Дмитрий Сапарин
-          url: 'https://www.youtube.com/user/saparind'
-          avatar: {}
       '@type': VideoObject
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'http://www.youtube.com/watch?v=MoKy1BJacWw'
       keywords:
         - brass band
         - weddind
@@ -45,67 +84,18 @@ content:
         - кавер
         - cover
       title: Tinto Brass Band -Свадебные хулиганы ( Rus Teaser)
-      starred: false
-      isBasedOnUrl: 'http://www.youtube.com/watch?v=MoKy1BJacWw'
       publisher:
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
         name: YouTube
         domain: www.youtube.com
         url: 'https://www.youtube.com/'
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+      author:
+        - name: Дмитрий Сапарин
+          url: 'https://www.youtube.com/user/saparind'
+          avatar: {}
+      starred: false
       description: Uploaded by Дмитрий Сапарин on 2017-04-17.
-      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - id: 68c7f6c1-c69a-4c71-aa0f-c8dc1a741ea2
-    name: Что мы делаем
-    type: content
-  - id: 57191697-dcd5-4365-aca5-2cd392fd43de
-    name: Костюмы и образы
-    type: content
-  - id: a405decc-de72-4d42-94b1-5a45aa97eb79
-    name: Видео
-    type: content
-  - id: c9c7ae4d-77bc-4ee9-b8d2-31a31b8a459c
-    name: Нам доверяют
-    type: content
-  - id: 26f8906a-d557-4bab-b253-f635af4a40ae
-    name: История создания
-    type: content
-  - id: bf510236-e7c6-4cec-bf46-df5e1ab9b567
-    name: Грамоты
-    type: content
-  - id: 5c65dc1a-35ae-431d-b689-fa678bf9ab1e
-    name: Контакты
-    type: content
-  - type: external
-    name: Инстаграм
-    url: 'https://www.instagram.com/4appa/'
-  - type: external
-    name: ВК
-    url: 'https://vk.com/tintobrassband'
-  - type: external
-    name: Фейсбук
-    url: 'https://www.facebook.com/www.tintobrassband.ru/'
-layout_spectrum: 0.7318983984107871
-color:
-  lightness: 0.6989288197969556
-  brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-  saturation: 0.8294138587857274
-  brandStrength: 0.8024512235633108
-  rhythmicContrast: 0.9770728429104432
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2096a707-8f1e-4943-ad12-bb693b33d164.jpg
-content_rating:
-  adult: false
-typography_spectrum: 0.026093784246944106
-opengraph: {}
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5b7f651-8a93-4f7d-b9d2-ac6b5c36050c.jpg
-title: Tinto Brass Band
+github: true
