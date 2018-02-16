@@ -1,4 +1,4 @@
-name: Tinto Brass Band
+name: 'Tinto Brass Band, независимый уличный оркестр'
 analytics: {}
 purpose:
   - type: contact
@@ -16,12 +16,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -108,4 +108,4 @@ typography_spectrum: 0.026093784246944106
 opengraph: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5b7f651-8a93-4f7d-b9d2-ac6b5c36050c.jpg
-title: Независимый уличный оркестр
+title: Tinto Brass Band
