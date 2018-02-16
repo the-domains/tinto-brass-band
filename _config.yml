@@ -63,39 +63,5 @@ navigation:
   - name: Фейсбук
     url: 'https://www.facebook.com/www.tintobrassband.ru/'
     type: external
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: video
-    html: >-
-      <iframe
-      src="http://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMoKy1BJacWw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMoKy1BJacWw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMoKy1BJacWw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
-      width="640" height="360" scrolling="no" frameborder="0"
-      allowfullscreen></iframe>
-    src: !<tag:yaml.org,2002:js/undefined> ''
-    metadata:
-      '@type': VideoObject
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'http://www.youtube.com/watch?v=MoKy1BJacWw'
-      keywords:
-        - brass band
-        - weddind
-        - свадьба
-        - шоу
-        - кавер
-        - cover
-      title: Tinto Brass Band -Свадебные хулиганы ( Rus Teaser)
-      publisher:
-        name: YouTube
-        domain: www.youtube.com
-        url: 'https://www.youtube.com/'
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-      author:
-        - name: Дмитрий Сапарин
-          url: 'https://www.youtube.com/user/saparind'
-          avatar: {}
-      starred: false
-      description: Uploaded by Дмитрий Сапарин on 2017-04-17.
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 github: true
