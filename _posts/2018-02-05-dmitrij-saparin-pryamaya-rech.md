@@ -1,7 +1,7 @@
 ---
 title: История создания
-datePublished: '2018-02-11T23:17:51.153Z'
-dateModified: '2018-02-11T23:17:48.547Z'
+datePublished: '2018-02-16T23:46:03.940Z'
+dateModified: '2018-02-16T23:46:02.477Z'
 publisher: {}
 author: []
 inFeed: true
