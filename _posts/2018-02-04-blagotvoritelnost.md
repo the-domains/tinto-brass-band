@@ -1,7 +1,7 @@
 ---
 title: Грамоты
-datePublished: '2018-02-15T20:38:38.025Z'
-dateModified: '2018-02-15T20:38:33.450Z'
+datePublished: '2018-02-16T23:46:04.035Z'
+dateModified: '2018-02-16T23:46:02.477Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,9 +12,9 @@ description: >-
   организациям, когда представляется такая возможность. Вот несколько примеров
   того, что мы уже сделали в этом направлении.
 via: {}
+sourcePath: _posts/2018-02-04-blagotvoritelnost.md
 starred: false
 datePublishedOriginal: '2018-02-04T21:49:28.140Z'
-sourcePath: _posts/2018-02-04-blagotvoritelnost.md
 url: blagotvoritelnost/index.html
 _type: Article
 _context: 'http://schema.org'
