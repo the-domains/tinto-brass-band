@@ -57,15 +57,9 @@ navigation:
   - name: Контакты
     id: 5c65dc1a-35ae-431d-b689-fa678bf9ab1e
     type: content
-  - name: Инстаграм
-    url: 'https://www.instagram.com/4appa/'
-    type: external
-  - name: ВК
-    url: 'https://vk.com/tintobrassband'
-    type: external
-  - name: Фейсбук
-    url: 'https://www.facebook.com/www.tintobrassband.ru/'
-    type: external
+  - name: Соцсети
+    id: ea911816-c93d-40c1-96c7-e1ed49d85d39
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
