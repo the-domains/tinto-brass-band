@@ -1,20 +1,21 @@
 ---
 title: history
-dateModified: '2018-02-18T18:54:19.536Z'
+datePublished: '2018-02-18T21:12:53.249Z'
+dateModified: '2018-02-18T21:12:36.943Z'
 publisher: {}
 author: []
 inFeed: true
-hasPage: false
+hasPage: true
 description: >-
   История Tinto Brass Band берет своё начало в конце беспокойных девяностых. Я в
   то время ездил с духовым оркестром Алеко по Европе, где много наблюдал за
   местными уличными оркестрами. Они-то и зародили во мне первые мысли о создании
   своего уличного духового оркестра в Москве.
 via: {}
-datePublished: '2018-02-18T21:11:16.756Z'
 starred: false
 datePublishedOriginal: '2018-02-18T21:11:16.756Z'
 sourcePath: _posts/2018-02-05-dmitrij-saparin-pryamaya-rech.md
+url: history/index.html
 _type: Article
 _context: 'http://schema.org'
 
