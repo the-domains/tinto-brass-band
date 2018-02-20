@@ -60,6 +60,9 @@ navigation:
   - name: Соцсети
     id: ea911816-c93d-40c1-96c7-e1ed49d85d39
     type: content
+  - name: Техрайдер
+    id: 7e288573-721e-48c9-8441-dab3c3656351
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
