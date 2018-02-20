@@ -1,13 +1,13 @@
 ---
-title: techrider
-dateModified: '2018-02-20T21:16:31.701Z'
+title: ''
+datePublished: '2018-02-20T21:17:24.150Z'
+dateModified: '2018-02-20T21:17:18.100Z'
 publisher: {}
 author: []
 inFeed: false
 hasPage: true
 description: Технический райдер Tinto Brass Band
 via: {}
-datePublished: '2018-02-20T21:16:33.632Z'
 starred: false
 datePublishedOriginal: '2018-02-20T21:16:33.632Z'
 sourcePath: _posts/2018-02-20-techrider.md
@@ -16,8 +16,6 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-# techrider
-
 Технический райдер Tinto Brass Band
 
 * **Барабанная установка DW, Tama, Sonor, Yamaha, Premier, Mapex, тарелки Sabian, Paiste, с необходимой озвучкой** в комплекте:
