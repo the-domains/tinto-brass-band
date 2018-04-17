@@ -1,7 +1,7 @@
 ---
 isBasedOnUrl: 'https://youtu.be/G4jCEIkvQOY'
 title: TINTO BRASS BAND - Wedding Hooligans. Promo 2018
-dateModified: '2018-04-17T21:06:46.871Z'
+dateModified: '2018-04-17T21:07:37.489Z'
 publisher: {}
 author:
   - name: Tinto Brass Band
@@ -10,10 +10,10 @@ author:
 inFeed: true
 description: Uploaded by Tinto Brass Band on 2018-04-11.
 via: {}
-datePublished: '2018-04-17T21:06:59.594Z'
+datePublished: '2018-04-17T21:07:39.802Z'
+sourcePath: _posts/2018-04-17-tinto-brass-band-wedding-hooligans-promo-2018.md
 starred: false
 datePublishedOriginal: '2018-04-17T21:06:59.594Z'
-sourcePath: _posts/2018-04-17-tinto-brass-band-wedding-hooligans-promo-2018.md
 _type: Article
 _context: 'http://schema.org'
 
