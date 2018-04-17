@@ -1,7 +1,7 @@
 ---
 title: История создания
-datePublished: '2018-02-18T21:40:11.439Z'
-dateModified: '2018-02-18T21:40:06.649Z'
+datePublished: '2018-04-17T21:07:39.803Z'
+dateModified: '2018-04-17T21:07:37.489Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,9 +12,9 @@ description: >-
   местными уличными оркестрами. Они-то и зародили во мне первые мысли о создании
   своего уличного духового оркестра в Москве.
 via: {}
+sourcePath: _posts/2018-02-05-dmitrij-saparin-pryamaya-rech.md
 starred: false
 datePublishedOriginal: '2018-02-18T21:17:35.346Z'
-sourcePath: _posts/2018-02-05-dmitrij-saparin-pryamaya-rech.md
 url: history/index.html
 _type: Article
 _context: 'http://schema.org'
